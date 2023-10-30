@@ -38,7 +38,7 @@
     "core-js": "^2.6.12",
     "date-and-time": "^0.14.2",
     "ethers": "^5.7.2",
-    "merkletreejs": "^0.2.24",
+    "merkletreejs": "^0.3.11",
     "moment": "^2.29.1",
     "primeflex": "^3.3.0",
     "primeicons": "^6.0.1",
